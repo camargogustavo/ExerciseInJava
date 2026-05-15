@@ -1,4 +1,4 @@
-package dayOne;
+package variaveis;
 
 public class Calculadora {
     int num1 = 10;

@@ -1,4 +1,4 @@
-package dayTwo;
+package Loops;
 
 public class ContagemRegressiva {
     public static void main(String[] args) {

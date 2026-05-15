@@ -1,4 +1,4 @@
-package dayTwo;
+package Loops;
 
 import java.util.Scanner;
 

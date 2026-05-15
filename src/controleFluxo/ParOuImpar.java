@@ -1,4 +1,4 @@
-package dayOne;
+package controleFluxo;
 
 import java.util.Scanner;
 

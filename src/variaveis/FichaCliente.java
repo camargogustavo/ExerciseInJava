@@ -1,4 +1,4 @@
-package dayOne;
+package variaveis;
 
 public class FichaCliente {
     public static void main(String[] args) {
