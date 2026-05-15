@@ -30,6 +30,9 @@ public class DiaDaSemana {
             case 7:
                 nomeDia = "Sabado";
                 break;
+            case 8:
+                nomeDia = "Quando posso ir ai te ver?";
+                break;
             default:
                 nomeDia = "Dia Invalido";
                 break;
